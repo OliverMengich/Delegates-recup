@@ -1,0 +1,11 @@
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\bin\Debug\netcoreapp3.1\DelegatesRecup.exe
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\bin\Debug\netcoreapp3.1\DelegatesRecup.deps.json
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\bin\Debug\netcoreapp3.1\DelegatesRecup.runtimeconfig.json
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\bin\Debug\netcoreapp3.1\DelegatesRecup.runtimeconfig.dev.json
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\bin\Debug\netcoreapp3.1\DelegatesRecup.dll
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\bin\Debug\netcoreapp3.1\DelegatesRecup.pdb
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\obj\Debug\netcoreapp3.1\DelegatesRecup.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\obj\Debug\netcoreapp3.1\DelegatesRecup.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\obj\Debug\netcoreapp3.1\DelegatesRecup.AssemblyInfo.cs
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\obj\Debug\netcoreapp3.1\DelegatesRecup.dll
+C:\Users\olive\source\repos\DelegatesRecup\DelegatesRecup\obj\Debug\netcoreapp3.1\DelegatesRecup.pdb
